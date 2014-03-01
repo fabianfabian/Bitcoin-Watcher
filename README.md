@@ -1,7 +1,7 @@
 Bitcoin Watcher
 ===============
 
-Website: [http://fabianfabian.github.io/Bitcoin-Watcher/](http://fabianfabian.github.io/Bitcoin-Watcher)
+Website: [http://bitcoin-watcher.com/](http://bitcoin-watcher.com)
 
 
 Simple status bar app to monitor your bitcoin balance.
